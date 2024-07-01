@@ -33,3 +33,11 @@ Yay! Printing.
 I'd much rather you 'not'.
 I "said" do not touch this.
 ```
+
+
+## Assignments
+
+#### Question 1: Make your script print another line
+#### Question 2: Make your script print only one of the lines
+#### Question 3: Put a # (octothorpe) character at the beginning of a line. What did it do? Try to find out what this character does
+

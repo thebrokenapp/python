@@ -1,4 +1,10 @@
 
+# Installation of Python
+
+Run the following command in cmd to check if python is installed
+
+
+
 
 ```python
 python

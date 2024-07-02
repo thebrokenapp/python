@@ -34,6 +34,17 @@ Open cmd and go to the location where you have saved the file and run:
 
 ## You should see some statements printed on your cmd
 ```bash
-abcdef
+Hi abc123, I'm the prompting.py script.
+I'd like to ask you a few questions.
+Do you like me abc123?
+> no
+Where do you live abc123?
+> mumbai
+What kind of computer do you have?
+> hp
+
+Alright, so you said no about liking me.
+You live in mumbai. Not sure where that is.
+And you have a hp computer. Nice.
 ```
 
